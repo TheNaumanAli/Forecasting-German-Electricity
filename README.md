@@ -103,5 +103,3 @@ Key observations:
 - Scikit-learn
 - TensorFlow / Keras
 
-
-## Repository Structure
